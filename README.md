@@ -1,9 +1,11 @@
-# Data Science and Machine Learning Using Python and Scikit-Learn
+# Data Science Workshop
 
-## Data Eng Conf 2016
+## Contents
 
-Slides + code + data from workshop at DataEngConf, April 2016, at
-Galvanize, San Francisco, CA.
+Slides + code + data from workshop **Data Science and Machine Learning
+Using Python and Scikit-Learn** at
+[DataEngConf](http://www.dataengconf.com), April 2016, at Galvanize,
+San Francisco, CA.
 
 ## Slides
 
