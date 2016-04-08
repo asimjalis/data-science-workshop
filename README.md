@@ -5,7 +5,7 @@
 Slides + code + data from workshop *Data Science and Machine Learning
 Using Python and Scikit-Learn*,
 [#DataEngConf](http://www.dataengconf.com), Galvanize, San Francisco,
-April 2016.
+CA, April 2016.
 
 ## Slides
 
